@@ -1,0 +1,4 @@
+com\alicyu\springcloud\controller\DeptController_Feign.class
+com\alicyu\myrule\MySelfRule.class
+com\alicyu\myrule\RandomRule_ZY.class
+com\alicyu\springcloud\DeptConsumer80_Feign_App.class
